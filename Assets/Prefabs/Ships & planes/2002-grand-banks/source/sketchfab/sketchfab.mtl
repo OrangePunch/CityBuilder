@@ -1,0 +1,65 @@
+# MTL written from C:\Users\dlawlor\Desktop\sketchfab.obj
+newmtl Grand_Base
+Kd 0.6 0.6 0.6
+Ns 4096
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+newmtl Grand_Clear_Glass
+Kd 0.6 0.6 0.6
+Ns 4096
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+newmtl Grand_Dark_Glass
+Kd 0.6 0.6 0.6
+Ns 4096
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+newmtl Grand_Fire_Exstinguisher
+Kd 0.6 0.6 0.6
+Ns 4096
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+newmtl Grand_Other_01
+Kd 0.6 0.6 0.6
+Ns 4096
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+newmtl Grand_Other_02
+Kd 0.6 0.6 0.6
+Ns 4096
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+map_Kd C:\Users\dlawlor\Desktop\46' Grand Banks 2002 Trawler\Textures\Grand_Other_02_D.tga
+newmtl Grand_Other_03
+Kd 0.6 0.6 0.6
+Ns 4096
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+newmtl Grand_Wood_01
+Kd 0.6 0.6 0.6
+Ns 4096
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
+newmtl Grand_Wood_02
+Kd 0.6 0.6 0.6
+Ns 4096
+d 1
+illum 2
+Ka 0 0 0
+Ks 0 0 0
